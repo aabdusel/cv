@@ -1,0 +1,138 @@
+.sliderimg {
+  width: 100%;
+  height: 700px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.container {
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.sliderimg {
+  filter: brightness(0.4);
+}
+
+.carousel-caption {
+  transform: translateY(-50%);
+  bottom: 30%;
+  top: 50%;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+.descontainer {
+  padding: 5%;
+  width: 100%;
+}
+.aboutuscontainer {
+  padding: 5px 10% 10%;
+  width: 100%;
+}
+
+.brandimg {
+  margin-right: 50px;
+}
+
+.nav-item {
+  margin-right: 15px;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.aboutus {
+  margin-top: 30px;
+}
+
+
+.subcontainer {
+  bottom: 8px;
+  left: 16px;
+}
+
+.green-bg {
+  position: absolute;
+  width: 60%;
+  height: 500px;
+  left: 0%;
+  background-color: #3ab984;
+}
+
+.subimage {
+  height: 500px;
+  width: 100%;
+}
+
+.subtext {
+  margin-top: 20%;
+  margin-left: 5%;
+}
+
+.subform {
+  padding-right: 10%;
+}
+
+.form-control {
+  margin: 20px 10px;
+}
+
+.bluetras-bg {
+  position: absolute;
+  width: 60%;
+  height: 300px;
+  left: 0%;
+  background-color: white;
+  color: black;
+  opacity: 0.85;
+  filter: alpha(opacity=60);
+}
+/* .des-inner {
+margin-left: 200px;
+} */
+
+
+
+.ftcontainer {
+    margin-top: 70px;
+}
+/*------------------------------Mobile responsive-----------------------------------*/
+.page-footer {
+  background-color: #87CEEB;
+}
+
+.navbar {
+  font-family:
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.row {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.loginbtn {
+  float: right;
+  margin-right: -right: 20px;
+}
